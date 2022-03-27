@@ -1,4 +1,4 @@
-### Mariano Canonero
+# Mariano Canonero
 
 ## About Me
 
@@ -7,7 +7,7 @@ Analyst Associate at Accenture.
 
 ## Index
 
-# Misc. Scripts
+### Misc. Scripts
 - [Python](./Python)
 - [Bash](./BASH)
 - [Haskell](./Haskell)
