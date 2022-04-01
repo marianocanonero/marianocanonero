@@ -6,6 +6,6 @@ Data & Computer science student at FCEyN, UBA.
 
 ## Index
 
-- [Python](./Python)
-- [Bash](./BASH)
-- [Haskell](./Haskell)
+- [Python](https://github.com/marianocanonero/Python)
+- [Bash](https://github.com/marianocanonero/BASH)
+- [Haskell](https://github.com/marianocanonero/Haskell)
