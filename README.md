@@ -2,8 +2,8 @@
 
 ## About Me
 
-<p>Full Time Data Engineer & Data Vizualization Expert.</p>
-<p>Data & Computer Science Student at FCEyN, UBA.</p>
+- Full Time Data Engineer & Data Vizualization Expert.
+- Data & Computer Science Student at FCEyN, UBA.
 
 ## Projects
 
