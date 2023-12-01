@@ -7,5 +7,6 @@
 
 ## Projects
 
-- [Kaggle House Prices Regression](https://github.com/marianocanonero/kaggle-house-prices-regression)
+- [AWS SES Sender](https://github.com/marianocanonero/aws-ses-sender)
 - [Scraper for SEC ADV Forms](https://github.com/marianocanonero/scraper-for-sec-adv-forms)
+- [Kaggle House Prices Regression](https://github.com/marianocanonero/kaggle-house-prices-regression)
