@@ -2,10 +2,9 @@
 
 ## About Me
 
-Data & Computer science student at FCEyN, UBA.
+Full Time Data Engineer & Data Vizualization Expert.
+Data & Computer Science Student at FCEyN, UBA.
 
-## Index
+## Projects
 
-- [Python](https://github.com/marianocanonero/Python)
-- [Bash](https://github.com/marianocanonero/BASH)
-- [Haskell](https://github.com/marianocanonero/Haskell)
+- [Scraper for SEC ADV Forms](https://github.com/marianocanonero/Scraper-for-SEC-ADV-Forms)
