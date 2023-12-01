@@ -7,4 +7,5 @@ Data & Computer Science Student at FCEyN, UBA.
 
 ## Projects
 
-- [Scraper for SEC ADV Forms](https://github.com/marianocanonero/Scraper-for-SEC-ADV-Forms)
+- [Kaggle House Prices Regression](https://github.com/marianocanonero/kaggle-house-prices-regression)
+- [Scraper for SEC ADV Forms](https://github.com/marianocanonero/scraper-for-sec-adv-forms)
