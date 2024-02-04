@@ -1,10 +1,5 @@
 # Mariano Canonero
 
-## About Me
-
-- Full Time Data Engineer & Data Vizualization Expert.
-- Data & Computer Science Student at FCEyN, UBA.
-
 ## Projects
 
 ### Utilities
